@@ -1,5 +1,5 @@
 body {
 	color: #000;
-	backgroun-color: #FFF;
-	font-family: Helvetica
+	background-color: #FFF;
+	font-family: Helvetica;
 }
